@@ -1,0 +1,12 @@
+nick 人名，尼克 hello,nick 1 4
+Tom 人名，汤姆 hello,Tom 1 2
+
+
+nick 人名，尼克 nick_is_a_name. 1 4
+nick 人名，尼克 nick_is_a_name. 3 4
+Tom 人名，汤姆 hello,Tom 3 2
+china 中国 hello_china 1 7
+nick 人名，尼克 nick_is_a_name. 2 4
+nick 人名，尼克 my_name_is_nick 2 4
+nick 人名，尼克 2 4 0
+nick 人名，尼克 nick 2 4

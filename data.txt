@@ -1,0 +1,11 @@
+Bob 人名，鲍伯 hello_Bob 2 1
+Tom 人名，汤姆 hello,Tom 2 2
+abroad 在国外 hello_abroad 2 5
+apple 苹果 A_big_apple_on_the_table. 0 6
+award 奖品 hello,award 3 12
+balance 使平衡，天平 hello_world 1 11
+china 中国 hello_china 0 7
+dog 狗 hello,nick 1 8
+hello 你好 hello_world 2 3
+home 家，首页 hello,Tom 2 10
+nick 人名，尼克 nick_is_a_boy 2 4
